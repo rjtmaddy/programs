@@ -2,7 +2,7 @@ package programs;
 
 class Class{
 	void show(){
-		System.out.println("parent");
+		System.out.println("parent is");
 	}
 }
 
